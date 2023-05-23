@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Варвара C.](https://up.htmlacademy.ru/htmlcss/37/user/1906609).
+* Студент: [Варвара](https://up.htmlacademy.ru/htmlcss/37/user/1906609).
 * Наставник: [Виктория Никитина] (https://up.htmlacademy.ru/htmlcss/37/user/1217273).
 
 ---
